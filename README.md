@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/kalwar/simple-greeter.svg?branch=master)](https://travis-ci.org/kalwar/simple-greeter)
 
-[![Coverage Status](https://coveralls.io/repos/github/kalwar/simple-greeter/badge.svg?branch=master)](https://coveralls.io/github/kalwar/simple-greeter?branch=master)
 
 Simple Greeter
 =========
