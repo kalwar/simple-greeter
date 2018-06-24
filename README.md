@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/kalwar/simple-greeter.svg?branch=master)](https://travis-ci.org/kalwar/simple-greeter)
 
-[![codecov](https://codecov.io/gh/kalwar/simple-greeter/branch/master/graph/badge.svg)](https://codecov.io/gh/kalwar/simple-greeter)
-
 
 Simple Greeter
 =========
