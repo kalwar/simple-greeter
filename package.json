@@ -1,6 +1,6 @@
 {
   "name": "simple-greeter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple greeter",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -10,17 +10,22 @@
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
     "lint": "tslint -p tsconfig.json",
     "prepare": "npm run build",
-   "prepublishOnly": "npm test && npm run lint",
-   "preversion": "npm run lint",
-   "version": "npm run format && git add -A src",
-   "postversion": "git push && git push --tags",
+    "prepublishOnly": "npm test && npm run lint",
+    "preversion": "npm run lint",
+    "version": "npm run format && git add -A src",
+    "postversion": "git push && git push --tags",
     "codecov": "codecov"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kalwar/simple-greeter.git"
   },
-  "keywords": ["Greeter", "Welcome", "typescript", "Jest"],
+  "keywords": [
+    "Greeter",
+    "Welcome",
+    "typescript",
+    "Jest"
+  ],
   "author": "SK",
   "license": "ISC",
   "bugs": {
